@@ -13,10 +13,10 @@ Una librería desea optimizar su sistema de facturación y análisis de ventas d
 
 La librería aplica descuentos según la cantidad de libros comprados en una misma compra:
 
-- Si se compra **1 libro**, se aplica un **5%** de descuento.
-- Si se compran **2 o 3 libros**, se aplica un **10%** de descuento.
-- Si se compran **4 o 5 libros**, se aplica un **15%** de descuento.
-- Si se compran **6 o más libros**, se aplica un **25%** de descuento.
+- Si se compra **1 libro**, se aplica un **15%** de descuento.
+- Si se compran **2 o 3 libros**, se aplica un **20%** de descuento.
+- Si se compran **4 o 5 libros**, se aplica un **25%** de descuento.
+- Si se compran **6 o más libros**, se aplica un **35%** de descuento.
 
 ## Cálculo de totales
 
@@ -73,5 +73,8 @@ Al finalizar el registro de todas las ventas, el programa debe:
 2. Calcular y mostrar el **promedio de ventas**, considerando el total pagado por todos los clientes.
 
 3. Determinar y mostrar:
+
+## Importante
+* Usar los conceptos estudiantes en hasta el momento en la asignatura
    - La venta de **mayor monto**.
    - La venta de **menor monto**.
