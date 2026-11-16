@@ -75,6 +75,6 @@ Al finalizar el registro de todas las ventas, el programa debe:
 3. Determinar y mostrar:
 
 ## Importante
-* Usar los conceptos estudiantes en hasta el momento en la asignatura
+* Usar los conceptos estudiados hasta el momento en la asignatura
    - La venta de **mayor monto**.
    - La venta de **menor monto**.
